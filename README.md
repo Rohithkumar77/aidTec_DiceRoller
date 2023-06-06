@@ -9,7 +9,7 @@ Features:
   It should allow users to select the number of dice they want to roll.
   It should simulate rolling the dice and display the result.
   It should allow users to roll the dice again or quit the app.
-  
+   
   
 Steps to create the project:
   1. Open a new Python file in your favourite text editor or IDE. 2. Define a function roll_dice() that simulates rolling a pair of dice.
